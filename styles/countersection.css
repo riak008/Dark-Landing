@@ -1,0 +1,27 @@
+.counter-users{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1140px;
+    background-color: #4E47FF1A;
+    border-radius: 24px;
+    padding: 50px 80px;
+}
+
+.counter-user-numbers{
+    display: flex;
+    justify-content: space-around;
+}
+
+.counter-user-number-title{
+    color: #4E47FF;
+    font-size: 60px;
+    font-family: "Inter", sans-serif;;
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+.counter-user-number-description{
+    color: #00000080;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;;
+}
