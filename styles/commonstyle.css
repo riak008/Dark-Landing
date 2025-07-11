@@ -32,3 +32,15 @@
     background-color: #00772a;
     cursor: pointer;
 }
+
+.action-section-title {
+  color: #252432;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.action-section-description {
+  color: #25243280;
+  font-size: 24px;
+  margin: 24px 0;
+}
