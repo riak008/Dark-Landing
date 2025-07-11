@@ -1,6 +1,11 @@
 /* font family */
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 
+
+body {
+    background-color: rgba(209, 225, 247, 0.21);;
+}
+
 .railwayfont {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -25,7 +30,6 @@
   font-family: "Raleway", sans-serif;
   padding: 12px 36px;
  
-  
 }
 
 .btn-primary:hover {
